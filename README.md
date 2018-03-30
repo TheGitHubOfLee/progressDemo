@@ -8,3 +8,5 @@
 ```
 #一行代码搞定
 ```
+效果图：
+<p> <img src = "https://github.com/TheGitHubOfLee/progressDemo/blob/master/WX20180330-161712%402x.png">
